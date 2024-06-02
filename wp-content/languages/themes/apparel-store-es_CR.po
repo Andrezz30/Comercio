@@ -1,0 +1,42 @@
+# Translation of Themes - Apparel Store in Spanish (Costa Rica)
+# This file is distributed under the same license as the Themes - Apparel Store package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-05 16:47:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es_CR\n"
+"Project-Id-Version: Themes - Apparel Store\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "A great theme can be the key to a great website. Apparel Store offers top functions with little to no previous experience. It includes several predesigned pages that can be used with minimal editing. Drag and drop your own images and content. Access the large array of customization available for backgrounds, fonts, color schemes, and more. The Apparel Store is both beautiful and functional. It offers a strong foundation for the building of any online shop with WooCommerce. It works well for sports goods, clothing items, retail stores, camera items, apparel & clothing, and endless options from other stores. If you are selling direct to the customer or business to business this theme can work for you. Create eye-catching SEO sites that attract new customers and bring back returning customers. With all of the needed functions, it supports strong customer service options. Communicate easily with your customers through contact forms, newsletters, and other interactions. It includes the ability to link to your social media for the best visibility for your brand. Layouts can be adapted as needed and customization is fast and easy with drag-and-drop editing of Elementor and integration with Gutenberg.  Apparel Store offers a reliable and responsive theme for any business. It is lightweight and easy to use. Loading is fast and customer interactions are smooth and intuitive."
+msgstr "Un gran tema puede ser la clave para un gran sitio web. Apparel Store ofrece funciones superiores con poca o ninguna experiencia previa. Incluye varias páginas prediseñadas que se pueden usar con una edición mínima. Arrastra y suelta tus propias imágenes y contenido. Acceda a la gran variedad de opciones de personalización disponibles para fondos, fuentes, combinaciones de colores y más. La tienda de ropa es hermosa y funcional. Ofrece una base sólida para la construcción de cualquier tienda en línea con WooCommerce. Funciona bien para artículos deportivos, prendas de vestir, tiendas minoristas, artículos para cámaras, indumentaria y un sinfín de opciones de otras tiendas. Si está vendiendo directamente al cliente o de empresa a empresa, este tema puede funcionar para usted. Cree sitios de SEO llamativos que atraigan a nuevos clientes y traigan de vuelta a los clientes que regresan. Con todas las funciones necesarias, admite sólidas opciones de servicio al cliente. Comuníquese fácilmente con sus clientes a través de formularios de contacto, boletines y otras interacciones. Incluye la capacidad de vincular a sus redes sociales para obtener la mejor visibilidad de su marca. Los diseños se pueden adaptar según sea necesario y la personalización es rápida y fácil con la edición de arrastrar y soltar de Elementor y la integración con Guttenberg. Apparel Store ofrece un tema confiable y receptivo para cualquier negocio. Es liviano y fácil de usar. La carga es rápida y las interacciones con los clientes son fluidas e intuitivas."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Apparel Store"
+msgstr "Apparel Store"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://athemeart.com/"
+msgstr "https://athemeart.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "aThemeArt"
+msgstr "aThemeArt"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://athemeart.com/downloads/apparel-store-wordpress-theme/"
+msgstr "https://athemeart.com/downloads/apparel-store-wordpress-theme/"

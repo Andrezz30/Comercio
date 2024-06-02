@@ -1,0 +1,1231 @@
+# Copyright (C) 2024 theDotstore
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advance Ecommerce Tracking Premium (Premium) 3.7.3\n"
+"Report-Msgid-Bugs-To: https://www.multidots.com/contact/\n"
+"POT-Creation-Date: 2024-05-08 10:38:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Sagar Jariwala <sagar.jariwala@multidots.com>\n"
+"Language-Team: Sagar Jariwala <sagar.jariwala@multidots.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: India\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin/class-advance-ecommerce-tracking-admin.php:463
+#: admin/partials/aet-et-settings.php:502
+msgid "Custom Event"
+msgstr ""
+
+#: admin/class-advance-ecommerce-tracking-admin.php:487
+#: admin/class-advance-ecommerce-tracking-admin.php:514
+msgid "Ecommerce Tracking"
+msgstr ""
+
+#: admin/class-advance-ecommerce-tracking-admin.php:497
+#: admin/class-advance-ecommerce-tracking-admin.php:519
+#: advance-ecommerce-tracking.php:299
+msgid "Settings"
+msgstr ""
+
+#: admin/class-advance-ecommerce-tracking-admin.php:502
+msgid "License"
+msgstr ""
+
+#: admin/class-advance-ecommerce-tracking-admin.php:509
+msgid "Dashboard"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:19 admin/partials/aet-et-settings.php:139
+msgid "Submit"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:70
+msgid "Custom Event Configuration"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:72
+msgid "Back to Event List"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:85
+msgid "Selector"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:93
+msgid ""
+"Select element's selector where you want to apply this event.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tPlease check screenshot for selector's."
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:96 admin/partials/aet-cat-list.php:119
+#: admin/partials/aet-et-settings.php:435
+#: admin/partials/aet-et-settings.php:457
+msgid " Click Here"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:105
+msgid "Selector Type"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:109
+msgid "Class"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:110
+msgid "ID"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:116
+msgid ""
+"Select element's selector type where you want to apply this event.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tPlease check screenshot for selector's type."
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:128 admin/partials/aet-cat-list.php:233
+msgid "Event Category"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:134
+msgid ""
+"Enter the event name which you want to display in analytics section.\n"
+"\t\t\t\t\t\t\t\t\t\t\tYou can view this report in Behavior > Events "
+"section. (Event Category - You have entered name display here) "
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:141 admin/partials/aet-cat-list.php:234
+msgid "Event Action"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:147
+msgid ""
+"Enter the event action name which you want to display in analytics section.\n"
+"\t\t\t\t\t\t\t\t\t\t\tYou can view this report in Behavior > Events "
+"section. (Event Action - You have entered name display here) "
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:154 admin/partials/aet-cat-list.php:235
+msgid "Event Label"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:160
+msgid ""
+"Enter the event label name which you want to display in analytics section.\n"
+"\t\t\t\t\t\t\t\t\t\t\tYou can view this report in Behavior > Events "
+"section. (Event Label - You have entered name display here) "
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:167 admin/partials/aet-cat-list.php:236
+msgid "Event Value"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:173
+msgid ""
+"Enter the event value which will count unique event. Value must be an "
+"integer."
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:179
+msgid "Non-Interaction"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:183
+msgid "true"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:184
+msgid "false"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:190
+msgid "Using this option, you can set event type interaction or non-interaction."
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:191 admin/partials/aet-et-settings.php:476
+msgid " Note: "
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:192
+msgid ""
+" Please make sure to set \"Non-Interaction Hit\" to \"True\" if you don't "
+"want that event to count towards the bounce rate.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tOtherwise, if the event fires on a page, analytics "
+"will think you didn't bounce and subsequently\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tset that session's page bounce rate to 0."
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:214 admin/partials/aet-et-settings.php:516
+msgid "Google Analytics Custom Event"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:216
+msgid "Add New Event"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:219
+msgid "Delete (Selected)"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:230
+msgid "Html Selector"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:231
+msgid "Type"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:232
+msgid "Event Name"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:237
+msgid "Actions"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:275
+msgid "Are you sure you want to delete this analytics event?"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:291
+msgid "No analytics event found"
+msgstr ""
+
+#: admin/partials/aet-cat-list.php:303
+msgid "Please enable custom event option from Google Ecommerce setting."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:7
+msgid "Save changes"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:88
+msgid "Ecommerce Tracking Configuration"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:105
+msgid "Welcome to Ecommerce Tracking"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:109
+msgid ""
+"Ecommerce Tracking makes it \"effortless\" to setup Google Analytics in "
+"WordPress, the Right way.\n"
+"\t\t\t\t\t\t\t\t\t\tYou can watch video tutorial."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:115
+msgid "Start to Setup"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:118
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:126
+msgid "OR Enter manually analytics id in below field"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:132
+msgid "Enter GA4 ID"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:156
+msgid "Google Analytics Account"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:161
+msgid "Reconnect to Wizard"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:164
+#: admin/partials/aet-et-settings.php:194
+msgid "Disconnect"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:168
+msgid ""
+"You can change analytics ID using Reconnect button and also\n"
+"\t\t\t\t\t\t\t\t\t\tyou can disconnect analytics ID if not need."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:179
+msgid "Google Analytics 4 Account"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:187
+msgid "Active Google Analytics 4 Account"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:200
+msgid "You can disconnect analytics ID if not need. "
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:202
+msgid "View More"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:212
+msgid "Enable Analytics Tracking"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:220
+msgid "UA - Deprecated"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:221
+msgid "GA4"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:222
+msgid "BOTH"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:228
+msgid "Enable Analytics trackings on your site using this option"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:237
+msgid "Enable Enhanced eCommerce"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:247
+msgid ""
+"This option will sent website's data to Google Analytics,\n"
+"\t\t\t\t\t\t\t\t\t\t    like: Transaction, Revenue, Product View, Add to "
+"Cart, Remove From Cart, Apply Coupon,\n"
+"\t\t\t\t\t\t\t\t\t\t\tIncrease and Decrease Cart Qty or etc. See the setup "
+"guide for"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:251
+#: admin/partials/aet-et-settings.php:258
+#: admin/partials/aet-et-settings.php:266
+msgid " enhanced ecommerce"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:255
+#: admin/partials/aet-et-settings.php:263
+msgid ""
+"This option will sent website's data to Google Analytics,\n"
+"\t\t\t\t\t\t\t\t\t\t    like: Transaction, Revenue. See the setup guide for"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:280
+msgid "Search Tracking"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:288
+msgid ""
+"This option will be sent website's search term to Google Analytics .\n"
+"\t\t\t\t\t\t\t\t\t\t    See the setup guide for"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:291
+msgid " Search. "
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:292
+msgid "You can view this report in Behavior > Site Search."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:314
+msgid "IP Anonymization"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:325
+msgid ""
+"This option will be allow to request that all of their users\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tIP addresses be anonymized within Google Analytics."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:328
+msgid " Read More"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:337
+msgid "Google Analytics Opt Out"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:348
+msgid ""
+"When you will enable this option then plugin will stop to sending data to "
+"Google Analytics."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:349
+msgid ""
+"If you want to allow opt out to user then please add below link in your "
+"theme."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:350
+msgid ""
+"<a href=\"javascript:ga4Optout()\">Click here to opt-out of Google "
+"Analytics 4</a>"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:351
+msgid ""
+"When user will click on this link after that data will not send to google "
+"analytics."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:365
+msgid "Add Code to Track the Login Step of Guest Users (Optional)"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:375
+msgid "This feature will fire event when the guest user process for a checkout."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:382
+msgid "Demographics and Interests Reports for Remarketing and Advertising"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:391
+msgid "Track 404 (Not found) Errors"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:397
+msgid ""
+"This feature will be sent event to analytics whenever a user lands on your "
+"404 Error Page.\n"
+"\t\t\t\t\t\t\t\t\t\tYou can view this report in Behavior > Events section. "
+"(Category Name - 404 Error)"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:404
+msgid "File Downloads"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:410
+msgid ""
+"This feature will be sent event to analytics whenever a user view or\n"
+"\t\t\t\t\t\t\t\t\t\tdownload file from this type(zip, exe, pdf, doc, docx, "
+"xls, ppt, csv, xml).\n"
+"\t\t\t\t\t\t\t\t\t\tYou can view this report in Behavior > Events section. "
+"(Category Name - File Download)"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:418
+msgid "Enhanced Link Attribution"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:426
+msgid ""
+"Enhanced Link Attribution improves the accuracy of your In-Page Analytics "
+"report by automatically\n"
+"\t\t\t\t\t\t\t\t\t\tdifferentiating between multiple links to the same URL "
+"on a single page by using link element IDs."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:428
+msgid " Note:"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:429
+msgid ""
+" for the most accurate link attribution,\n"
+"\t\t\t\t\t\t\t\t\t\teach of the links on your page should have a unique "
+"element ID."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:431
+msgid "Please enable "
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:432
+msgid "Use enhanced link attribution"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:433
+msgid " option for this feature."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:444
+msgid "User ID Tracking"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:452
+msgid ""
+"You can send a User ID when a pageview (or other data) is sent to Google "
+"Analytics.\n"
+"\t\t\t\t\t\t\t\t\t\t\tThis allows you to tie sessions together when the "
+"User ID is the same,\n"
+"\t\t\t\t\t\t\t\t\t\t\teven if the sessions are on different devices."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:455
+msgid ""
+" Please follow screenshot how to enable this option on google analytics "
+"section."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:466
+msgid "Form Tracking"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:474
+msgid ""
+"This feature will be send forms event to analytics when forms are submitted "
+"on site.\n"
+"\t\t\t\t\t\t\t\t\t\t\tYou can view this report in Behavior > Events "
+"section. (Category Name - Form)"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:477
+msgid ""
+" We get default form name for those plugins. Contact Form 7, WPForms, "
+"Formidable Forms, Mailchimp Form, Gravity Form, Caldera Forms, Ninja Form.\n"
+"\t\t\t\t\t\t\t\t\t\t\tIf you have any custom form then please add below "
+"field in your form.\n"
+"\t\t\t\t\t\t\t\t\t\t\tUsing this you can easily understood which form has "
+"been submitted."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:480
+msgid " <input type=\"hidden\" name=\"aet_form\" value=\"Enter your form name\"/>"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:489
+msgid "Comment Tracking"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:495
+msgid ""
+"This feature will be send data to analytics when comment is posted on your "
+"website.\n"
+"\t\t\t\t\t\t\t\t\t\tYou can view this report in Behavior > Events section. "
+"(Category Name - Comment)"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:513
+msgid ""
+"With custom events, you can track important actions as per your "
+"requirement.\n"
+"\t\t\t\t\t\t\t\t\t\t\tWhen you checked this checkbox and save this then new "
+"menu will display\n"
+"\t\t\t\t\t\t\t\t\t\t\twith name "
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:525
+msgid "Excluding traking for roles"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:539
+msgid ""
+"With this features, users that have roles from above selected roles\n"
+"\t\t\t\t\t\t\t\t\t\twill not be tracked into Google Analytics."
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:550
+msgid "Privacy Policy*"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:554
+msgid "Accept Privacy Policy of Plugin"
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:555
+msgid "By using theDotstore Plugin, you agree to theDotstore plugin's "
+msgstr ""
+
+#: admin/partials/aet-et-settings.php:556
+msgid "Privacy Policy"
+msgstr ""
+
+#: admin/partials/aet-get-started-page.php:10
+msgid "Getting Started"
+msgstr ""
+
+#: admin/partials/aet-get-started-page.php:16
+msgid ""
+"The plugin allows you to easy Integration with Analytics with your "
+"WooCommerce store.\n"
+"\t\t\t\t\t\t\tIt will provide all the features to track your sales and "
+"product performance."
+msgstr ""
+
+#: admin/partials/aet-get-started-page.php:21
+msgid ""
+"<strong>Step 1: </strong>You can get your analytics ID with gmail "
+"connection using click on Start to Setup button."
+msgstr ""
+
+#: admin/partials/aet-get-started-page.php:31
+msgid ""
+"<strong>Step 2: </strong>You can also enter analytics ID manually. EX: "
+"UA-XXXXXXXXX-X. Please follow steps and see screenshots. Admin - Property - "
+"Property Settings."
+msgstr ""
+
+#: admin/partials/aet-get-started-page.php:41
+msgid ""
+"<strong>Step 3: </strong>When you click on Start to setup then you will "
+"redirect to our server\n"
+"\t\t\t\t\t\t\t\t\tand click on Connect to gmail."
+msgstr ""
+
+#: admin/partials/aet-get-started-page.php:52
+msgid ""
+"<strong>Step 4: </strong>After connect with gmail you will get your all "
+"analytics ID list in dropdown.\n"
+"\t\t\t\t\t\t\t\t\tYou can selet ID in which you want see tracking data. "
+"After select analytics ID, you will redirect to plugins page."
+msgstr ""
+
+#: admin/partials/aet-get-started-page.php:63
+msgid ""
+"<strong>Step 5: </strong>You can see here your selected analytics ID and "
+"analytics setting."
+msgstr ""
+
+#: admin/partials/aet-get-started-page.php:89
+msgid ""
+"<strong>Step 6: </strong>After plugin's setup, Please enable Ecommerce "
+"section from analytics section.\n"
+"\t\t\t\t\t\t\t\t\tPlease check below screenshot for more info."
+msgstr ""
+
+#: admin/partials/aet-get-started-page.php:100
+msgid ""
+"<strong>Step 7: </strong>For search tracking, Please enable search section "
+"from analytics section.\n"
+"\t\t\t\t\t\t\t\t\tPlease check below screenshot for more info."
+msgstr ""
+
+#: admin/partials/aet-get-started-page.php:111
+msgid ""
+"<strong>Important Note: </strong>This plugin is only compatible with "
+"WooCommerce version 3.0 and more."
+msgstr ""
+
+#: admin/partials/aet-information-page.php:11
+#: admin/partials/header/plugin-header.php:100
+msgid "Quick info"
+msgstr ""
+
+#: admin/partials/aet-information-page.php:15
+msgid "Product Type"
+msgstr ""
+
+#: admin/partials/aet-information-page.php:16
+msgid "WooCommerce Plugin"
+msgstr ""
+
+#: admin/partials/aet-information-page.php:19
+msgid "Product Name"
+msgstr ""
+
+#: admin/partials/aet-information-page.php:23
+msgid "Installed Version"
+msgstr ""
+
+#: admin/partials/aet-information-page.php:28
+msgid "License & Terms of use"
+msgstr ""
+
+#: admin/partials/aet-information-page.php:31
+msgid "Click here"
+msgstr ""
+
+#: admin/partials/aet-information-page.php:33
+msgid " to view license and terms of use."
+msgstr ""
+
+#: admin/partials/aet-information-page.php:37
+msgid "Help & Support"
+msgstr ""
+
+#: admin/partials/aet-information-page.php:41
+msgid "Quick Start"
+msgstr ""
+
+#: admin/partials/aet-information-page.php:44
+msgid "Support Forum"
+msgstr ""
+
+#: admin/partials/aet-information-page.php:50
+msgid "Localization"
+msgstr ""
+
+#: admin/partials/aet-information-page.php:51
+msgid "English, German"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:11
+msgid "Go Premium to Increase Profitability"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:12
+msgid "Three Benefits for Upgrading to Premium"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:15
+msgid "01"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:16
+msgid "Detailed eCommerce Tracking"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:17
+msgid ""
+"Track each step of your customer’s journey with comprehensive tracking of "
+"product impressions, clicks, add to cart, checkout, and purchases."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:20
+msgid "02"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:21
+msgid "Custom dimensions and metrics"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:22
+msgid ""
+"Set up custom dimensions and metrics to track additional information about "
+"your products, customers, and transactions."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:25
+msgid "03"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:26
+msgid "Dynamic remarketing"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:27
+msgid ""
+"Benefit from rich visitor insights: Demographics Reports reveal data on "
+"country, city, gender, language, interests, and age."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:32
+msgid "Unlock Premium Features"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:35
+msgid "Advanced eCommerce Analytics Tracking"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:37
+msgid ""
+"Seamlessly integrate your Google Analytics-4 setup with the WooCommerce "
+"store."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:42
+#: admin/partials/aet-premium-page.php:69
+#: admin/partials/aet-premium-page.php:96
+#: admin/partials/aet-premium-page.php:122
+#: admin/partials/aet-premium-page.php:148
+#: admin/partials/aet-premium-page.php:174
+msgid "Close"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:48
+msgid ""
+"Allows the flexibility to connect Google Analytics 4 and enable  Enhanced "
+"eCommerce event tracking."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:50
+msgid "Connect with an automatic wizard."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:51
+msgid "Add manual GA4 id to start."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:52
+msgid "Enable eCommerce event tracking."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:62
+msgid "Track Performance of Custom Events"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:64
+msgid "Add your events and track them for different Google Analytics parameters."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:75
+msgid ""
+"Activate eCommerce data collection for transaction, revenue, and product "
+"actions in your Google Analytics account."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:77
+msgid "Track user purchase journey with predefined events"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:78
+msgid "Analyze user interactions from cart to purchase for insights."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:79
+msgid "Create your custom events."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:89
+msgid "Improve Shopping Experience"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:91
+msgid ""
+"Say goodbye to guessing user behavior. Track the actual behavior of your "
+"customers and visitors in detail."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:102
+msgid ""
+"Optimize the shopping experience using a variety of reports available in "
+"GA4."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:104
+msgid "Check user and Traffic acquisition."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:105
+msgid "User engagement and monetization."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:115
+msgid "Analyze All Essential Performance Metrics"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:117
+msgid ""
+"Map the user journey with insights about the tinies of data points. Track "
+"search queries, comments, anonymized analytics data, and more."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:128
+msgid ""
+"GA4 empowers you to analyze all essential performance metrics, enabling "
+"data-driven decision-making."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:130
+msgid "Search Tracking, Track 404 (Not found) Errors"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:131
+msgid "File Downloads, Enhanced Link Attribution, User ID Tracking, Form Tracking"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:141
+msgid "Role-Based Exclusion"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:143
+msgid ""
+"Control tracking, ensuring privacy compliance and data protection for "
+"specific user roles."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:154
+msgid "Find the role-based tracking exclusion in e-commerce tracking."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:156
+msgid "A predefined list of all user roles"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:157
+msgid "Checkbox to exclude multiple user roles."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:167
+msgid "Advanced Features"
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:169
+msgid ""
+"Enable GA Opt-out, Demographics and Interest Reports, Search Tracking, IP "
+"Anonymization, and more."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:180
+msgid "Unlock GA4's Advanced Features for In-Depth Analytics and Insights."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:182
+msgid "Easily enable or disable the tracking advance features."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:183
+msgid ""
+"Effortlessly Manage GA4 Tracking Features via Backend Options for Enhanced "
+"Analytics Control."
+msgstr ""
+
+#: admin/partials/aet-premium-page.php:195
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:23
+msgid "Welcome! 🤗"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:25
+msgid "Track your conversions in an easy manner, integration with Google Analytics"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:28
+#: admin/partials/dots-plugin-setup-wizard.php:56
+#: admin/partials/dots-plugin-setup-wizard.php:69
+#: admin/partials/dots-plugin-setup-wizard.php:114
+msgid "Continue"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:38
+msgid "Help us build a better \"Enhanced ECommerce Tracking\" Plugin!"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:39
+msgid ""
+"Get improved features and faster fixes by sharing non-sensitive data via "
+"usage-tracking. This will help us make the plugin more compatible with your "
+"site. No personal data is tracked or stored."
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:41
+#: admin/partials/dots-plugin-setup-wizard.php:49
+msgid "Yes, count me in!"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:46
+msgid "Never miss an important update"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:47
+msgid ""
+"Opt-in to get email notifications for security & feature updates and to "
+"share some important WooCommerce updates. This will help us make the plugin "
+"more compatible with your version and better at doing what you need it to. "
+"No personal data is tracked or stored."
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:63
+#: admin/partials/dots-plugin-setup-wizard.php:65
+msgid "Quick Tour"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:76
+msgid "You are all set, almost!"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:81
+msgid "Would you mind telling how did you hear about us?"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:83
+msgid "Select One"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:84
+msgid "Social Media"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:85
+msgid "Search Engine"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:86
+msgid "LearnWoo"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:87
+msgid "WPLift"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:88
+msgid "WPBeginner"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:89
+msgid "Do the Woo"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:90
+msgid "WP Mayor"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:91
+msgid "Astra"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:92
+msgid "WPExplorer"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:93
+msgid "Medium"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:94
+msgid "Others"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:101
+msgid "Be our friend on"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:118
+msgid "Done"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:14
+msgid "Pro"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:17
+#: admin/partials/header/plugin-header.php:21
+msgid "Free"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:54
+msgid "Support"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:57
+msgid "Suggest"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:66
+msgid "Help"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:74
+msgid "My Account"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:78
+#: admin/partials/header/plugin-header.php:83
+msgid "Upgrade"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:99
+msgid "About"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:107
+msgid "Account"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:113
+msgid "Shop Plugins"
+msgstr ""
+
+#: advance-ecommerce-tracking.php:272
+msgid ""
+"<strong>Advance Ecommerce Tracking Pro is successfully installed and ready "
+"to go.</strong>"
+msgstr ""
+
+#: advance-ecommerce-tracking.php:277
+msgid ""
+"<strong>Advance Ecommerce Tracking is successfully installed and ready to "
+"go.</strong>"
+msgstr ""
+
+#: advance-ecommerce-tracking.php:286
+msgid "Click on settings button and do your setting as per your requirement."
+msgstr ""
+
+#: advance-ecommerce-tracking.php:406
+msgid "Activate Plugin"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:95
+#. translators: Number of years
+msgid "%s years"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:97
+msgid "a year"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:104
+#. translators: Number of weeks
+msgid "%s weeks"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:106
+msgid "a week"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:113
+#. translators: Number of days
+msgid "%s days"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:115
+msgid "a day"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:122
+#. translators: Number of hours
+msgid "%s hours"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:124
+msgid "an hour"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:131
+#. translators: Number of minutes
+msgid "%s minutes"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:133
+msgid "a minute"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:140
+#. translators: Number of seconds
+msgid "%s seconds"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:142
+msgid "a second"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:276
+#. translators: 1. Name
+msgid "%s WordPress Plugin"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:280
+#. translators: 1. Name
+msgid "Are you enjoying %s Plugin?"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:283
+#. translators: 1. Name, 2. Time
+msgid ""
+"You have been using %1$s for %2$s now. Mind leaving a review to let us know "
+"know what you think? We'd really appreciate it!"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:296
+msgid "Leave a Review"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:298
+msgid "No thanks / I already have"
+msgstr ""
+
+#: includes/class-advance-ecommerce-tracking-user-feedback.php:327
+msgid "Advance Ecommerce Tracking"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:172
+msgid "send"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:173
+msgid "event"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:174
+msgid "External"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:175
+msgid "Link"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:176
+msgid "Click"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:177
+msgid "Email"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:178
+msgid "File"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:179
+msgid "Download"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:180
+msgid "Apply"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:181
+msgid "Coupon"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:182
+#: public/class-advance-ecommerce-tracking-public.php:222
+msgid "Cart"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:183
+msgid "Checkout"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:184
+msgid "Add to Cart"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:185
+msgid "ApplyCoupon"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:186
+msgid "AddToCart"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:187
+msgid "RemoveFromCart"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:189
+msgid "Form"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:190
+msgid "Comment"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:212
+msgid "Search Result"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:214
+msgid "Product category"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:216
+msgid "Product tag"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:218
+msgid "Shop"
+msgstr ""
+
+#: public/class-advance-ecommerce-tracking-public.php:220
+msgid "Product Detail"
+msgstr ""
